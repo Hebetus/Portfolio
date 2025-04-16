@@ -1,0 +1,4 @@
+,best_params,best_accuracy
+ridge,{'alpha': 0.001},0.2
+rf,"{'bootstrap': True, 'max_features': None, 'n_estimators': 250}",0.5243243243243244
+mlp,"{'activation': 'relu', 'alpha': 1, 'hidden_layer_sizes': (40,), 'solver': 'adam', 'validation_fraction': 0.1}",0.5567567567567566

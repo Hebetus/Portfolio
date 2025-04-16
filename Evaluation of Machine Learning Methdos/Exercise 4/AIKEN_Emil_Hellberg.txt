@@ -1,0 +1,19 @@
+In AIKEN format you have six lines per question, when there are four answer options: The question is on the first line. 
+Answer options are in the following lines. Every option in their own line. 
+The correct answer is on the last line. 
+
+If you have topic C-index, for example, your question could look like:
+
+What does the concordance index of a regression function generally measure?
+A. The general accuracy of predictions.
+B. The ratio of concordant pairs of predictions and true labels.
+C. The ratio of false positives and false negatives.
+D. The logarithmic scale of the dataset (10^0, 10^1, 10^2, etc.).
+ANSWER: B
+
+Which of the following is a likely affect of violating the IID assumption?
+A. The model won't work on unseen data.
+B. It will make the model less accurate.
+C. The trained model will be skewed in some way.
+D. Possible runtime errors in the python programming language.
+ANSWER: C

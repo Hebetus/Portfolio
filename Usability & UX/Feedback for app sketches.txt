@@ -1,0 +1,8 @@
+Maria Hongisto:
+The UI seems clean and minimalistic. The contrast between elements could be better, blue on light blue can be hard to distinguish. The margins of the "back" and "view current list" stick out as being too small. The font color could also have a better contrast. Other than that all the required functionalities are included and the UI has a consistent look.
+
+Niko Jokela:
+There seems to be a sketch of only one of the views of the app, the one where you edit shopping lists. The color pattern is clean and simple which works very well. The buttons for adjusting quantities and removing items could be aligned better. The buttons for finnish grocery stores would look better as company logos.
+
+Casper Holmstrom:
+The sketch is easy to visualize since it's displayed on a smartphone. The pop-up when creating a new list would look better centered in the middle of the screen. In the editing view a plus-sign instead of three lines would be more intuitive for adding items. The different views for completed/non-completed items might be unnecessary, since the information could be displayed in a single view (i.e. check items of the list). Other than that the UI seems logical and well structured with a clean colour palette.
